@@ -1,5 +1,5 @@
 # Real-Time-Monitoring-with-Prometheus
-
+![Monitoring](https://github.com/user-attachments/assets/06e5fefc-7808-4280-8360-524a7f5ce1e2)
 
 ### Steps for Downloading, Extracting, and Starting Prometheus, Node Exporter, Blackbox Exporter, and Alertmanager
 
